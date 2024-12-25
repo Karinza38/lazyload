@@ -1,4 +1,4 @@
-# LazyLoad Explainer
+LazyLoad Explainer
 ## Introduction
 Web pages often have images or embedded content like ads out of view near the bottom of the page, and users don't always end up scrolling all the way down. This means that if a web browser can avoid loading this content that the user never sees, then it could help speed up more important content near the top of the page, reduce network data usage, and reduce memory usage.
 
